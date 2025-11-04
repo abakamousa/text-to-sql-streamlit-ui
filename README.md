@@ -1,1 +1,1 @@
-# text-to-sql-chainlit-ui
+# text-to-sql-streamlit-ui
